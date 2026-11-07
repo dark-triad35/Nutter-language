@@ -1,6 +1,6 @@
 # Nutter Programming Language (v1.3)
 
-![[InShot_20261107_164014837.jpg]]
+![Nutter](InShot_20261107_164014837.jpg)
 
 [RU] Официальная документация языка программирования Nutter.
 [EN] Official documentation for the Nutter programming language.
