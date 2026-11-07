@@ -3,6 +3,8 @@
 [RU] Официальная документация языка программирования Nutter.
 [EN] Official documentation for the Nutter programming language.
 
+![[InShot_20261107_164014837.jpg]]
+
 ---
 
 ## [RU] РУССКАЯ ВЕРСИЯ
